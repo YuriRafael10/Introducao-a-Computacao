@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(61, 61, 61);
+    color: white;
+}
+
+a.navbar-brand {
+    font-size: 20px;
+}
+ main {
+     margin-left: 25px;
+     margin-bottom: 15px;
+ }
+ p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+ }
+ h1 {
+     text-align: center;
+ }
+ h2 {
+     font-size: 25px;
+ }
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+
+  .footer {
+    margin-top: 60px;
+    background-color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    color: black;
+}
+h9 {
+    font-size: 35px;
+}
